@@ -47,4 +47,5 @@ Basis the clear demarcation of data points within and outside the cluster, there
 - Hierarchical Clustering
 
 **Algorithms**
-- [K Means Clustering](https://github.com/dashok93/K-Means-Clustering/blob/main/README.md)
+- [K Means Clustering](https://github.com/dashok93/K-Means-Clustering)
+- [Hierarchical Clustering](https://github.com/dashok93/Hierarchical-Clustering)
